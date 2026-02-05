@@ -2,14 +2,16 @@ class Solution {
 public:
     int findMax(vector<int>& v){
         int m = INT_MIN;
-        for(int x : v) m = max(m, x);
+        for(int i = 0; i < v.size(); i++){
+            m = max(m, v[i]);
+        }
         return m;
     }
     
     long long totalHours(vector<int>& v, int k){
         long long t = 0;
-        for(int x : v){
-            t += (x + k - 1) / k;
+        for(int i = 0; i < v.size(); i++){
+            t += (v[i] + k - 1) / k;
         }
         return t;
     }
