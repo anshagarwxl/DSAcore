@@ -9,7 +9,7 @@ public:
         return sum;
     }
     int smallestDivisor(vector<int>& arr, int limit) {
-        if(arr.size()>limit) return -1;
+        // if(arr.size()>limit) return -1;
         int low =1;
         int high = *max_element(arr.begin(),arr.end()); // c++ stl func to give max element in a range
         while(low<=high){
