@@ -9,28 +9,25 @@ public:
     }
 
     bool isPalindrome(string s) {
-        int st = 0;
-        int end = s.length() - 1;
-
-        while (st < end) {
-            if (!isAlphaNum(s[st])) {
+        int st =0;
+        int end = s.length()-1;
+        while(st<end){
+            if(!isAlphaNum(s[st])){ //if char is not alphaNum skip it
                 st++;
                 continue;
             }
-
-            if (!isAlphaNum(s[end])) {
+            if(!isAlphaNum(s[end])){
                 end--;
                 continue;
             }
-
-            if (tolower(s[st]) != tolower(s[end])) {
+            if(tolower(s[st])!=tolower(s[end])){
                 return false;
             }
-
-            st++;
-            end--;
+            else{
+                st++;
+                end--;
+            }
         }
-
-        return true;
+          return true;
     }
 };
