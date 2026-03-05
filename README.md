@@ -93,8 +93,10 @@ The goal of this repository is to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
+| [1922-count-good-numbers](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/1922-count-good-numbers/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
+| [1922-count-good-numbers](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/1922-count-good-numbers/) | Medium |
 <!---LeetCode Topics End-->
