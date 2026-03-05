@@ -86,3 +86,15 @@ The goal of this repository is to:
 ---
 
 ⭐ If you find this repository useful, feel free to **star it**.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
+<!---LeetCode Topics End-->
