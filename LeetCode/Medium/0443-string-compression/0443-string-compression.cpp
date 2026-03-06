@@ -9,14 +9,15 @@ public:
         while(i<n){
             char curr_char = chars[i];
             int count = 0;
-
+            //find count of duplicates
             while(i<n && chars[i]==curr_char){
                 count++;
                 i++;
             }
+            //assigning values
             chars[index] = curr_char;
             index++;
-            
+        
             if(count>1){
                 string count_str = to_string(count);
                 for(char &ch : count_str){
