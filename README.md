@@ -107,4 +107,9 @@ The goal of this repository is to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0443-string-compression](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0443-string-compression/) | Medium |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1832-check-if-the-sentence-is-pangram/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1832-check-if-the-sentence-is-pangram/) | Easy |
 <!---LeetCode Topics End-->
