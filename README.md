@@ -110,6 +110,7 @@ The goal of this repository is to:
 | [0012-integer-to-roman](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 | [0038-count-and-say](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0038-count-and-say/) | Medium |
 | [0443-string-compression](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0443-string-compression/) | Medium |
+| [1544-make-the-string-great](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1544-make-the-string-great/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -126,4 +127,8 @@ The goal of this repository is to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1544-make-the-string-great](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1544-make-the-string-great/) | Easy |
 <!---LeetCode Topics End-->
