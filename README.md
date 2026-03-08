@@ -92,6 +92,7 @@ The goal of this repository is to:
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 | [0050-powx-n](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [1922-count-good-numbers](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/1922-count-good-numbers/) | Medium |
 ## Recursion
@@ -106,6 +107,7 @@ The goal of this repository is to:
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 | [0038-count-and-say](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0038-count-and-say/) | Medium |
 | [0443-string-compression](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0443-string-compression/) | Medium |
 | [1704-determine-if-string-halves-are-alike](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1704-determine-if-string-halves-are-alike/) | Easy |
@@ -113,6 +115,7 @@ The goal of this repository is to:
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
