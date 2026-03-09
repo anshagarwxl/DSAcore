@@ -111,6 +111,7 @@ The goal of this repository is to:
 | [0038-count-and-say](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0038-count-and-say/) | Medium |
 | [0443-string-compression](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0443-string-compression/) | Medium |
 | [0520-detect-capital](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0520-detect-capital/) | Easy |
+| [0944-delete-columns-to-make-sorted](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0944-delete-columns-to-make-sorted/) | Easy |
 | [1544-make-the-string-great](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1544-make-the-string-great/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1704-determine-if-string-halves-are-alike/) | Easy |
@@ -127,6 +128,7 @@ The goal of this repository is to:
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0944-delete-columns-to-make-sorted/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
