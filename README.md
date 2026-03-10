@@ -110,6 +110,7 @@ The goal of this repository is to:
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 | [0038-count-and-say](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0038-count-and-say/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0093-restore-ip-addresses/) | Medium |
 | [0443-string-compression](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0443-string-compression/) | Medium |
 | [0520-detect-capital](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0520-detect-capital/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0944-delete-columns-to-make-sorted/) | Easy |
@@ -141,4 +142,8 @@ The goal of this repository is to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2109-adding-spaces-to-a-string](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/2109-adding-spaces-to-a-string/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0093-restore-ip-addresses](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0093-restore-ip-addresses/) | Medium |
 <!---LeetCode Topics End-->
