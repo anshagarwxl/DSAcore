@@ -94,6 +94,7 @@ The goal of this repository is to:
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 | [0050-powx-n](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
+| [1759-count-number-of-homogenous-substrings](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/1759-count-number-of-homogenous-substrings/) | Medium |
 | [1922-count-good-numbers](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/1922-count-good-numbers/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -120,6 +121,7 @@ The goal of this repository is to:
 | [1544-make-the-string-great](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1544-make-the-string-great/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1704-determine-if-string-halves-are-alike/) | Easy |
+| [1759-count-number-of-homogenous-substrings](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/1759-count-number-of-homogenous-substrings/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/2109-adding-spaces-to-a-string/) | Medium |
 ## Hash Table
