@@ -119,6 +119,7 @@ The goal of this repository is to:
 | [0093-restore-ip-addresses](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0093-restore-ip-addresses/) | Medium |
 | [0443-string-compression](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0443-string-compression/) | Medium |
 | [0520-detect-capital](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0520-detect-capital/) | Easy |
+| [0606-construct-string-from-binary-tree](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0606-construct-string-from-binary-tree/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
 | [0859-buddy-strings](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0859-buddy-strings/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0944-delete-columns-to-make-sorted/) | Easy |
@@ -188,4 +189,16 @@ The goal of this repository is to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0779-k-th-symbol-in-grammar/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0606-construct-string-from-binary-tree](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0606-construct-string-from-binary-tree/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0606-construct-string-from-binary-tree](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0606-construct-string-from-binary-tree/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0606-construct-string-from-binary-tree](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0606-construct-string-from-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
