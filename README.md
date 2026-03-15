@@ -96,12 +96,14 @@ The goal of this repository is to:
 | [0050-powx-n](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0779-k-th-symbol-in-grammar/) | Medium |
 | [1759-count-number-of-homogenous-substrings](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/1759-count-number-of-homogenous-substrings/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1922-count-good-numbers](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/1922-count-good-numbers/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0779-k-th-symbol-in-grammar/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1922-count-good-numbers](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/1922-count-good-numbers/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -147,6 +149,7 @@ The goal of this repository is to:
 | [0692-top-k-frequent-words](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
 | [0944-delete-columns-to-make-sorted](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0944-delete-columns-to-make-sorted/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/2109-adding-spaces-to-a-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -155,6 +158,7 @@ The goal of this repository is to:
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/2109-adding-spaces-to-a-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -201,4 +205,8 @@ The goal of this repository is to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0606-construct-string-from-binary-tree](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0606-construct-string-from-binary-tree/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/1823-find-the-winner-of-the-circular-game/) | Medium |
 <!---LeetCode Topics End-->
