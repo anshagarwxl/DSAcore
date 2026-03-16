@@ -146,6 +146,7 @@ The goal of this repository is to:
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
 | [0944-delete-columns-to-make-sorted](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0944-delete-columns-to-make-sorted/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -164,6 +165,7 @@ The goal of this repository is to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
+| [0078-subsets](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0093-restore-ip-addresses/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -192,6 +194,7 @@ The goal of this repository is to:
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0779-k-th-symbol-in-grammar/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
