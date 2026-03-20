@@ -14,6 +14,7 @@ class Solution {
                 return true;
         }
         }
+         board[i][j] = temp;
         return false;
     }
     
