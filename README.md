@@ -153,6 +153,7 @@ The goal of this repository is to:
 | [0015-3sum](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0039-combination-sum](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0040-combination-sum-ii/) | Medium |
+| [0051-n-queens](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0090-subsets-ii/) | Medium |
@@ -177,6 +178,7 @@ The goal of this repository is to:
 | [0022-generate-parentheses](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0040-combination-sum-ii/) | Medium |
+| [0051-n-queens](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0090-subsets-ii/) | Medium |
