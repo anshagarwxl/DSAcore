@@ -235,4 +235,12 @@ The goal of this repository is to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
