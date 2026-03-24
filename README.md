@@ -136,6 +136,7 @@ The goal of this repository is to:
 | [1759-count-number-of-homogenous-substrings](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/1759-count-number-of-homogenous-substrings/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/2109-adding-spaces-to-a-string/) | Medium |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/2264-largest-3-same-digit-number-in-string/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
