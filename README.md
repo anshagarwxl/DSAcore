@@ -165,6 +165,7 @@ The goal of this repository is to:
 | [0079-word-search](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0090-subsets-ii/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
+| [0867-transpose-matrix](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0867-transpose-matrix/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0944-delete-columns-to-make-sorted/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -177,6 +178,7 @@ The goal of this repository is to:
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0867-transpose-matrix](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0867-transpose-matrix/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1688-count-of-matches-in-tournament/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/2109-adding-spaces-to-a-string/) | Medium |
@@ -246,6 +248,7 @@ The goal of this repository is to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
+| [0867-transpose-matrix](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0867-transpose-matrix/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
