@@ -172,6 +172,7 @@ The goal of this repository is to:
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/2109-adding-spaces-to-a-string/) | Medium |
+| [2706-buy-two-chocolates](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/2706-buy-two-chocolates/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -214,6 +215,7 @@ The goal of this repository is to:
 | [0389-find-the-difference](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2706-buy-two-chocolates](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/2706-buy-two-chocolates/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -260,4 +262,8 @@ The goal of this repository is to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2706-buy-two-chocolates](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/2706-buy-two-chocolates/) | Easy |
 <!---LeetCode Topics End-->
