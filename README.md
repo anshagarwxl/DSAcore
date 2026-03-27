@@ -168,6 +168,7 @@ The goal of this repository is to:
 | [0867-transpose-matrix](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0867-transpose-matrix/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0944-delete-columns-to-make-sorted/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/2109-adding-spaces-to-a-string/) | Medium |
@@ -212,10 +213,12 @@ The goal of this repository is to:
 | [0015-3sum](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0389-find-the-difference](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
