@@ -124,6 +124,7 @@ The goal of this repository is to:
 | [0079-word-search](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0093-restore-ip-addresses/) | Medium |
 | [0242-valid-anagram](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0443-string-compression](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0443-string-compression/) | Medium |
 | [0520-detect-capital](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0520-detect-capital/) | Easy |
@@ -146,6 +147,7 @@ The goal of this repository is to:
 | [0012-integer-to-roman](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0242-valid-anagram](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
 | [0859-buddy-strings](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0859-buddy-strings/) | Easy |
@@ -155,6 +157,7 @@ The goal of this repository is to:
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1704-determine-if-string-halves-are-alike/) | Easy |
@@ -255,6 +258,7 @@ The goal of this repository is to:
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
