@@ -132,6 +132,7 @@ The goal of this repository is to:
 | [0859-buddy-strings](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0859-buddy-strings/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0944-delete-columns-to-make-sorted/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [1496-path-crossing](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1496-path-crossing/) | Easy |
 | [1544-make-the-string-great](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1544-make-the-string-great/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1704-determine-if-string-halves-are-alike/) | Easy |
@@ -149,6 +150,7 @@ The goal of this repository is to:
 | [0692-top-k-frequent-words](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
 | [0859-buddy-strings](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0859-buddy-strings/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [1496-path-crossing](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1496-path-crossing/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
