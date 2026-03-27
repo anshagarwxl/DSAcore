@@ -123,6 +123,7 @@ The goal of this repository is to:
 | [0038-count-and-say](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0038-count-and-say/) | Medium |
 | [0079-word-search](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0093-restore-ip-addresses/) | Medium |
+| [0242-valid-anagram](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0443-string-compression](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0443-string-compression/) | Medium |
 | [0520-detect-capital](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0520-detect-capital/) | Easy |
@@ -143,6 +144,7 @@ The goal of this repository is to:
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0242-valid-anagram](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
 | [0859-buddy-strings](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0859-buddy-strings/) | Easy |
@@ -212,6 +214,7 @@ The goal of this repository is to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
+| [0242-valid-anagram](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
