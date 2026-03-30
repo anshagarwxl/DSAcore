@@ -2,7 +2,6 @@
 
 
 
-
 This repository contains my **LeetCode problem solutions**, automatically synced using the **LeetHub extension**.
 
 LeetHub connects **LeetCode with GitHub** and automatically uploads solutions whenever a problem is solved. Each solution includes the **problem name, runtime performance, memory usage, and solution code**.
