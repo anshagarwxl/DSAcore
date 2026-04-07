@@ -110,6 +110,7 @@ The goal of this repository is to:
 | ------- | ------- |
 | [0015-3sum](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0125-valid-palindrome](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0443-string-compression](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0443-string-compression/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/2109-adding-spaces-to-a-string/) | Medium |
 ## String
@@ -122,6 +123,7 @@ The goal of this repository is to:
 | [0038-count-and-say](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0038-count-and-say/) | Medium |
 | [0079-word-search](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0093-restore-ip-addresses/) | Medium |
+| [0125-valid-palindrome](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
