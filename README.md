@@ -148,6 +148,7 @@ The goal of this repository is to:
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0037-sudoku-solver](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0076-minimum-window-substring](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0242-valid-anagram](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
@@ -168,6 +169,7 @@ The goal of this repository is to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
+| [0037-sudoku-solver](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
@@ -200,6 +202,7 @@ The goal of this repository is to:
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
+| [0037-sudoku-solver](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
@@ -266,6 +269,7 @@ The goal of this repository is to:
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0079-word-search](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0867-transpose-matrix](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0867-transpose-matrix/) | Easy |
 ## Binary Search
