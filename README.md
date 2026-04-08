@@ -176,6 +176,7 @@ The goal of this repository is to:
 | [0078-subsets](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0090-subsets-ii/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
 | [0867-transpose-matrix](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0867-transpose-matrix/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0944-delete-columns-to-make-sorted/) | Easy |
@@ -288,4 +289,5 @@ The goal of this repository is to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
+| [0643-maximum-average-subarray-i](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
