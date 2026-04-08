@@ -176,6 +176,7 @@ The goal of this repository is to:
 | [0078-subsets](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0090-subsets-ii/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
 | [0867-transpose-matrix](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0867-transpose-matrix/) | Easy |
@@ -276,6 +277,7 @@ The goal of this repository is to:
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
@@ -289,5 +291,10 @@ The goal of this repository is to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
+| [0209-minimum-size-subarray-sum](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
