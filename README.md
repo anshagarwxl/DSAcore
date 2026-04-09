@@ -179,6 +179,7 @@ The goal of this repository is to:
 | [0209-minimum-size-subarray-sum](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
+| [0724-find-pivot-index](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
 | [0867-transpose-matrix](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0867-transpose-matrix/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0944-delete-columns-to-make-sorted/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1160-find-words-that-can-be-formed-by-characters/) | Easy |
@@ -297,4 +298,5 @@ The goal of this repository is to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
+| [0724-find-pivot-index](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
 <!---LeetCode Topics End-->
