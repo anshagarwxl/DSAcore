@@ -173,6 +173,7 @@ The goal of this repository is to:
 | [0039-combination-sum](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
+| [0053-maximum-subarray](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0078-subsets](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0090-subsets-ii/) | Medium |
@@ -217,6 +218,7 @@ The goal of this repository is to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
+| [0053-maximum-subarray](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -299,4 +301,8 @@ The goal of this repository is to:
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0724-find-pivot-index](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
