@@ -102,6 +102,7 @@ The goal of this repository is to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0779-k-th-symbol-in-grammar/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1922-count-good-numbers](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/1922-count-good-numbers/) | Medium |
@@ -305,4 +306,8 @@ The goal of this repository is to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
