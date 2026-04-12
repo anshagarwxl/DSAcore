@@ -119,6 +119,7 @@ The goal of this repository is to:
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0020-valid-parentheses](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0038-count-and-say](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0038-count-and-say/) | Medium |
@@ -194,6 +195,7 @@ The goal of this repository is to:
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0225-implement-stack-using-queues](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [1544-make-the-string-great](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1544-make-the-string-great/) | Easy |
 ## Simulation
