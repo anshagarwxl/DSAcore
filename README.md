@@ -194,6 +194,7 @@ The goal of this repository is to:
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [1544-make-the-string-great](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1544-make-the-string-great/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -270,6 +271,7 @@ The goal of this repository is to:
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Matrix
@@ -310,4 +312,8 @@ The goal of this repository is to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->
