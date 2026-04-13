@@ -196,6 +196,7 @@ The goal of this repository is to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+| [0155-min-stack](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [1544-make-the-string-great](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1544-make-the-string-great/) | Easy |
 ## Simulation
@@ -317,5 +318,6 @@ The goal of this repository is to:
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->
