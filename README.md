@@ -101,6 +101,7 @@ The goal of this repository is to:
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0779-k-th-symbol-in-grammar/) | Medium |
@@ -314,6 +315,7 @@ The goal of this repository is to:
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 ## Design
 | Problem Name | Difficulty |
