@@ -112,6 +112,7 @@ The goal of this repository is to:
 | ------- | ------- |
 | [0015-3sum](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0042-trapping-rain-water](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0443-string-compression](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0443-string-compression/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/2109-adding-spaces-to-a-string/) | Medium |
@@ -176,6 +177,7 @@ The goal of this repository is to:
 | [0037-sudoku-solver](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0040-combination-sum-ii/) | Medium |
+| [0042-trapping-rain-water](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0051-n-queens](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0078-subsets](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
@@ -200,6 +202,7 @@ The goal of this repository is to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0155-min-stack](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0496-next-greater-element-i](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
@@ -229,6 +232,7 @@ The goal of this repository is to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
+| [0042-trapping-rain-water](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -330,6 +334,7 @@ The goal of this repository is to:
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 <!---LeetCode Topics End-->
