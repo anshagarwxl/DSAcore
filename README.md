@@ -189,6 +189,7 @@ The goal of this repository is to:
 | [0643-maximum-average-subarray-i](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
 | [0724-find-pivot-index](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
+| [0735-asteroid-collision](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [0867-transpose-matrix](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0867-transpose-matrix/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0907-sum-of-subarray-minimums/) | Medium |
 | [0944-delete-columns-to-make-sorted](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0944-delete-columns-to-make-sorted/) | Easy |
@@ -208,11 +209,13 @@ The goal of this repository is to:
 | [0225-implement-stack-using-queues](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0496-next-greater-element-i](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
+| [0735-asteroid-collision](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0907-sum-of-subarray-minimums/) | Medium |
 | [1544-make-the-string-great](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1544-make-the-string-great/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0735-asteroid-collision](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [0867-transpose-matrix](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0867-transpose-matrix/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1688-count-of-matches-in-tournament/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/1823-find-the-winner-of-the-circular-game/) | Medium |
