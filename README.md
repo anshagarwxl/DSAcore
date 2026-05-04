@@ -198,6 +198,7 @@ The goal of this repository is to:
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1913-maximum-product-difference-between-two-pairs/) | Easy |
+| [2104-sum-of-subarray-ranges](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/2104-sum-of-subarray-ranges/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/2109-adding-spaces-to-a-string/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/2706-buy-two-chocolates/) | Easy |
 ## Stack
@@ -212,6 +213,7 @@ The goal of this repository is to:
 | [0735-asteroid-collision](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0907-sum-of-subarray-minimums/) | Medium |
 | [1544-make-the-string-great](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/1544-make-the-string-great/) | Easy |
+| [2104-sum-of-subarray-ranges](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/2104-sum-of-subarray-ranges/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -344,4 +346,5 @@ The goal of this repository is to:
 | [0496-next-greater-element-i](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0907-sum-of-subarray-minimums/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/2104-sum-of-subarray-ranges/) | Medium |
 <!---LeetCode Topics End-->
