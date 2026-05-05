@@ -132,6 +132,7 @@ The goal of this repository is to:
 | [0242-valid-anagram](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
+| [0402-remove-k-digits](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [0443-string-compression](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0443-string-compression/) | Medium |
 | [0520-detect-capital](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0520-detect-capital/) | Easy |
 | [0606-construct-string-from-binary-tree](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0606-construct-string-from-binary-tree/) | Medium |
@@ -208,6 +209,7 @@ The goal of this repository is to:
 | [0042-trapping-rain-water](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0155-min-stack](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
+| [0402-remove-k-digits](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
@@ -313,6 +315,7 @@ The goal of this repository is to:
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/2706-buy-two-chocolates/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -343,6 +346,7 @@ The goal of this repository is to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+| [0402-remove-k-digits](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0907-sum-of-subarray-minimums/) | Medium |
