@@ -154,6 +154,7 @@ The goal of this repository is to:
 | [0012-integer-to-roman](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0037-sudoku-solver](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
+| [0073-set-matrix-zeroes](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0242-valid-anagram](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
@@ -181,6 +182,7 @@ The goal of this repository is to:
 | [0042-trapping-rain-water](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0051-n-queens](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0090-subsets-ii/) | Medium |
@@ -301,6 +303,7 @@ The goal of this repository is to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
+| [0073-set-matrix-zeroes](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0867-transpose-matrix](https://github.com/anshagarwxl/DSAcore/tree/main/LeetCode/Easy/0867-transpose-matrix/) | Easy |
 ## Binary Search
